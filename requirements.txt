@@ -1,0 +1,9 @@
+langchain==0.1.20
+langchain-core==0.1.53
+langchain-community==0.0.38
+langsmith==0.1.147
+numpy==1.26.4
+pandas
+python-dotenv
+tableauserverclient
+langchainhub
